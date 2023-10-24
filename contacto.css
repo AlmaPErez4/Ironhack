@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    font-size: 20px;
+}
+#texto{
+    width: 300px;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
